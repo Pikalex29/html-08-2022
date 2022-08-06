@@ -1,0 +1,144 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {}
+
+.header .container {
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.header {
+    background: #222222;
+
+}
+
+.left_header {
+    display: flex;
+    align-items: center;
+
+}
+
+.logo {
+    padding: 18px 40px 18px 0px;
+}
+
+.right_header {
+    display: flex;
+    align-items: center;
+}
+
+.pos-f-t {
+    padding-right: 33px;
+
+}
+
+.login {
+    padding-right: 33px;
+}
+
+.top_main {
+    background-color: #F1E4E6;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.txt_top_cont {
+    display: flex;
+    align-items: center;
+
+}
+
+.txt_top_main {
+    padding-left: 16px;
+    padding-right: 331px;
+    line-height: 44px;
+    color: #222222;
+}
+
+.brand {
+    font-weight: 900;
+}
+
+.fashion {
+    color: #F16D7F;
+}
+
+.group-card {
+    width: 1140px;
+    display: flex;
+    flex-wrap: wrap;
+    border: #F1E4E6;
+    padding-top: 65px;
+    padding-bottom: 96px;
+}
+
+.card {
+    height: 260px;
+    width: 360px;
+}
+
+.card_acc {
+    height: 180px;
+    width: 1140px;
+}
+
+.men_card {
+    padding: 0 30px;
+    padding-bottom: 30px;
+}
+
+.group-card p {
+    position: absolute;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 105px 103px;
+}
+
+.colorit {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #F16D7F;
+}
+
+.card_acc p {
+    padding: 65px 490px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.colorit:hover {
+    text-decoration: underline;
+}
+
+
+.txt_bot_top {}
+
+.txt_feat {
+    padding: 0 480px;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    color: #222222;
+}
+
+.txt_shop {
+    padding: 0 400px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #9F9F9F;
+}
